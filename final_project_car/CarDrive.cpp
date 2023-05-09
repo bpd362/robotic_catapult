@@ -1,3 +1,7 @@
+//CarDrive.cpp - Library for controling the drive functions of the ELEGOO Smart Car
+//Created by Brian Davis, April 2023
+
+
 #include "Arduino.h"
 #include "CarDrive.h"
 
