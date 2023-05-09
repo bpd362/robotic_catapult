@@ -1,3 +1,7 @@
+//CarDrive.h - Library headder for controling the drive functions of the ELEGOO Smart Car
+//Created by Brian Davis, April 2023
+
+
 #ifndef CarDrive_h //prevents the library from being included more than once
 #define CarDrive_h //defines the library
 
